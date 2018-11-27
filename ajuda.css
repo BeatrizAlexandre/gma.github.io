@@ -1,6 +1,7 @@
 body{
   position: relative;
   font-family: Palatino, sans-serif;
+  font-size: 0.5rem;
 }
 
 
@@ -56,7 +57,6 @@ body{
   display: inline-block;
   vertical-align: middle;
   width: 100%;
-  font-size: 1rem;
  }
 
 .imagem{
@@ -67,6 +67,7 @@ body{
  }
 .alicate{
   width: 50%;
+  top: 40%;
 }
 
 .esmalte{
