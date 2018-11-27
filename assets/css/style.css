@@ -1,4 +1,5 @@
 html {
+	background-color: rgb(255,255,255);
 }
 
 body {
@@ -7,4 +8,5 @@ body {
 }
 
 iframe {
+	background-color: rgb(255,255,255);
 }
