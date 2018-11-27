@@ -56,6 +56,7 @@ body{
   display: inline-block;
   vertical-align: middle;
   width: 100%;
+  font-size: 1rem;
  }
 
 .imagem{
@@ -65,7 +66,7 @@ body{
   width: 10%;
  }
 .alicate{
-  width: 70%;
+  width: 50%;
 }
 
 .esmalte{
