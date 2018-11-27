@@ -1,0 +1,128 @@
+header{
+	background-color: yellow;
+	border-style: solid;
+	border-width: 0.2rem;
+	padding: 0.5rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 1rem;
+	width: 14rem ;
+	position: fixed;
+	text-align: center;
+}
+
+.esterilizacao{
+	font-family: Palatino, sans-serif;
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	justify-content: space-evenly;
+}
+
+.fachada{
+	width: 22%;
+	position: absolute;
+	left: 17rem;
+	top: 1.25rem;
+}
+
+
+main{
+	margin: 0.5rem;
+	width: 30rem ;
+	position: fixed;
+	bottom: 33rem;
+}
+
+.maquina1{
+	width: 16%;
+	position: absolute;
+	align-content: center;
+	left: 0.75rem;
+	top: 0.8rem;
+}
+
+.info{
+	width: 50%;
+	left: 6rem;
+	top: 1rem;
+	position: absolute;
+	align-content: center;
+}
+
+.maquina2{
+	width: 16%;
+	position: absolute;
+	align-content: center;
+	left: 0.7rem;
+	top: 7rem;
+}
+
+.info2{
+	width: 50%;
+	left: 6rem;
+	top: 7rem;
+	position: absolute;
+	align-content: center;
+}
+
+.maquina3{
+	width: 16%;
+	position: absolute;
+	align-content: center;
+	left: 0.7rem;
+	top: 13rem;
+}
+
+.info3{
+	width: 50%;
+	left: 6rem;
+	top: 13rem;
+	position: absolute;
+	align-content: center;
+}
+
+.maquina4{
+	width: 16%;
+	position: absolute;
+	align-content: center;
+	left: 0.7rem;
+	top: 19.25rem;
+}
+
+.info4{
+	width: 50%;
+	left: 6rem;
+	top: 19rem;
+	position: absolute;
+	align-content: center;
+}
+
+.maquina5{
+	width: 16%;
+	position: absolute;
+	align-content: center;
+	left: 0.7rem;
+	top: 25rem;
+}
+
+.info5{
+	width: 50%;
+	left: 6rem;
+	top: 25rem;
+	position: absolute;
+	align-content: center;
+}
+
+footer{
+	margin: 1.5rem;
+	width: 28rem ;
+	position: fixed;
+	bottom: 0;
+	left: -1rem;
+}
+
+.voltar{
+	width: 4%;
+	position: absolute;
+}

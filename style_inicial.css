@@ -1,0 +1,47 @@
+.container{
+	width: 2rem;
+	/*background-color: rgb(30,144,255); */
+	background-color: palevioletred;
+	position: fixed;
+	bottom: 0;
+	padding: 1rem;
+}
+
+.imagem1 {
+	/*display: flex;*/
+	width: 100%;
+	background-image: url("sem_pin.jpeg");
+	background-position: center;
+	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+}
+.col a{
+	color: rgb(0,0,0);
+	margin-left: 2rem;
+}
+
+a:hover{
+	color: rgb(0,0,0);
+	text-decoration: none;
+
+}
+
+.fas .fa-exclamation: hover+ .texto{
+	visibility: visible;
+	left: 0;
+}
+
+.pin_este{
+	width:15%;
+	position:fixed;
+	top: 23%;
+	left: 38%;
+}
+
+.pin_loja{
+	width:13%;
+	position:fixed;
+	top: 17%;
+	left: 75%;	
+}
+

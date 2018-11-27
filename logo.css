@@ -1,0 +1,10 @@
+body{
+	position: relative;
+	background-color: palevioletred;
+}
+
+.logo{
+	width:100%;
+	position:fixed;
+	top: 35%;
+}

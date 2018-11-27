@@ -1,0 +1,60 @@
+.texto{
+	border-style: solid;
+	font-family: Palatino, sans-serif;
+	font-size: 0.975rem;
+	color: rgb(0,0,0);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+
+.título{
+	width: 23rem;
+	background-color: palevioletred;
+	position: fixed;
+	top: -4rem;
+	padding: 1rem;
+	font-family: Palatino, sans-serif;
+	font-size: 1.7rem;
+	text-align: center;
+	font-weight: bold;
+}
+
+.paragrafo{
+	padding-top: 1rem;
+	padding-left: 0.25rem;
+	padding-right: 0.25rem;
+	text-align: justify;
+}
+
+body{
+	background-color: rgb(255,255,255);
+}
+
+/*.imagem1 {
+	position: relative;
+	width: 100%;
+	background-image: url("aprocura.jpg");
+	background-position: center;
+	background-repeat: no-repeat; 
+  	background-size: cover; 
+}*/
+.container{
+	width: 2rem;
+	/*background-color: rgb(30,144,255); */
+	background-color: palevioletred;
+	position: fixed;
+	bottom: 0;
+	padding: 1rem;
+}
+.fas .fa-undo-alt{
+	position: fixed;
+	bottom: 0;
+}
+
+.col a{
+	color: rgb(0,0,0);
+	margin-left: 2rem;
+}

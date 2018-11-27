@@ -1,0 +1,26 @@
+body{
+	position: relative;
+}
+
+.imagem1{
+	width:100%;
+  	position:absolute; 
+}
+
+.imagem2{
+	width:100%;
+	position: fixed; 
+	bottom: 0;
+}
+.logo{
+	width:100%;
+	position:fixed;
+	top: 35%;
+}
+
+.pin_este{
+	width:18%;
+	position:fixed;
+	top: 38%;
+	left: 44%;
+}
